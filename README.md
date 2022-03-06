@@ -18,7 +18,9 @@ This game is two player only, in which the player chooses a color, take turns dr
 
 
 
+
 ***How To Get Started***
+
 
 Pick your colored token (Options are Teal and Pink)
 Pick who goes first.
@@ -28,7 +30,9 @@ Predict the opponent’s next move.
 Successfully place four tokens to win!
 Check out my "How to Play" link for more!
 
+
 ***Tips***
+
 
 
 Play the middle column.
