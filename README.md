@@ -26,6 +26,7 @@ Strategized a plan (Don't share this plan out loud!)
 Drop your token into an empty slot.
 Predict the opponent’s next move.
 Successfully place four tokens to win!
+Check out my "How to Play" link for more!
 
 ***Tips***
 
