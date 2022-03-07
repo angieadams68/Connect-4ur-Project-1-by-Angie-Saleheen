@@ -6,6 +6,9 @@
 #  By: Angie Aqsa Saleheen
 
 [How to Play](https://mathworld.wolfram.com/Connect-Four.html)
+
+*** 
+
 [Trello Board] (https://trello.com/b/kW1z5Mk0/connect-4ur-p-1)
 
 ***
