@@ -9,7 +9,7 @@
 
 *** 
 
-[Trello Board] (https://trello.com/b/kW1z5Mk0/connect-4ur-p-1)
+[TrelloBoard] (https://trello.com/b/kW1z5Mk0/connect-4ur-p-1)
 
 ***
 
